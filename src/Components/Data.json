@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Rose Le",
+        "tel" : "0204639999",
+        "permission":1
+        
+    },
+    {
+        "id":2,
+        "name":"Vien Vuong",
+        "tel" : "0204638888",
+        "permission":1
+        
+    },
+    {
+        "id":3,
+        "name":"Tuyet Le",
+        "tel" : "0909828282",
+        "permission":1
+        
+    },
+    {
+        "id":4,
+        "name":"Phuong Le",
+        "tel" : "0909197177",
+        "permission":2
+        
+    },
+    {
+        "id":5,
+        "name":"Khanh Le",
+        "tel" : "0978838524",
+        "permission":3
+        
+    }
+
+]
